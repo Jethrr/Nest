@@ -37,6 +37,10 @@ Users can categorize data and content with the following capabilities:
 
 The system automatically parses scheduled links into organized, easy-to-view events, helping users manage tasks and deadlines more efficiently.
 
+![alt text](https://scontent.fceb3-1.fna.fbcdn.net/v/t1.15752-9/484347644_636094109577743_2356054137514033287_n.png?stp=dst-png_s2048x2048&_nc_cat=105&ccb=1-7&_nc_sid=9f807c&_nc_ohc=b9QSiRGIn3MQ7kNvgHrx-yT&_nc_oc=AdlI0vht1UCqZWgNTLCo9DksNDnAPXps4Vyv0ZhYefwhtfCXg1CW3wraqiXGqcK0Qlo&_nc_zt=23&_nc_ht=scontent.fceb3-1.fna&oh=03_Q7cD1wE2EZai9pv81gEsMJU_7SOvvihOQRoPBC3K36LYGXyNyA&oe=680F37FC)
+
+![alt text](https://scontent.fceb3-1.fna.fbcdn.net/v/t1.15752-9/483530711_1656712735237050_8151890706811541776_n.png?stp=dst-png_s2048x2048&_nc_cat=110&ccb=1-7&_nc_sid=9f807c&_nc_ohc=uowtHRcgVcoQ7kNvgHNGuya&_nc_oc=AdmC_WL1ektAI3dG0K8d1v0RX7V5i-Q-k3z78_illw2qfvsGst3giRsYZVTGcLFgY7g&_nc_zt=23&_nc_ht=scontent.fceb3-1.fna&oh=03_Q7cD1wHA1wqSRegkPvfYxyVKXs2AcQKyW1TfjLV4YlSqc_F_iA&oe=680F12ED)
+
 
 # Optional Features
 
